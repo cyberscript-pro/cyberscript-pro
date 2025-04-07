@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 -->
 ## ¡Hola, soy Li Anthony Gomez! 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado desarrollador backend con experiencia en la creación de APIs robustas y escalables. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.
+Bienvenido/a a mi perfil de GitHub. Soy un apasionado desarrollador backend con experiencia en la creación de APIs robustas y escalables. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Actualmente estoy desarrollando habilidades en el frontend para convertirme en un Fullstack Developer, también tengo conocimientos en el desarrollo de software especialmente Android con Java y Kotlin.
 
 ## 🛠️ Tecnologías y Herramientas
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-- **Lenguajes**: Python, JavaScript, TypeScript
-- **Frameworks**: Django, NestJS
-- **Bases de datos**: PostgreSQL, MySQL, MongoDB
+- **Lenguajes**: Python, JavaScript, TypeScript, Java, Kotlin 
+- **Frameworks**: NestJS, NextJS
+- **Bases de datos**: PostgreSQL, MySQL
 - **Herramientas**: Git, Docker
 - **Otros**: RESTful APIs, GraphQL
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 Actualmente estoy aprendiendo 
 
+- Framework: Django, DjangoRest 
 - Machine Learning con Python y Scikit-learn.
 - DevOps: CI/CD, Kubernetes y Terraform.
 
@@ -43,10 +44,6 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   </p>
 
 ¡Gracias por visitar mi perfil! Si te gusta lo que ves, no dudes en dejar una ⭐ en mis repositorios o seguirme para estar al tanto de mis nuevos proyectos.
-
-
-
-
 
 
 
