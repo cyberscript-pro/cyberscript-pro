@@ -30,7 +30,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
 ## 🌱 Actualmente estoy aprendiendo 
 
-- Framework: Django, DjangoRest 
+- Framework: SpringBoot, React Native con Expo
 - Machine Learning con Python y Scikit-learn.
 - DevOps: CI/CD, Kubernetes y Terraform.
 
