@@ -22,15 +22,15 @@ Bienvenido/a a mi perfil de GitHub. Soy un apasionado desarrollador backend con 
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-- **Lenguajes**: Python, JavaScript, TypeScript, Java, Kotlin 
-- **Frameworks**: NestJS, NextJS
+- **Lenguajes**: Python, JavaScript, TypeScript, Java, Kotlin, C#, Dart
+- **Frameworks**: NestJS, NextJS, ASP.NET Core
 - **Bases de datos**: PostgreSQL, MySQL
 - **Herramientas**: Git, Docker
 - **Otros**: RESTful APIs, GraphQL
 
 ## 🌱 Actualmente estoy aprendiendo 
 
-- Framework: Djang Rest Framework, React Native con Expo
+- Framework: Djang Rest Framework, React Native con Expo, Flutter
 - Machine Learning con Python y Scikit-learn.
 - DevOps: CI/CD, Kubernetes y Terraform.
 
