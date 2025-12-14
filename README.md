@@ -1,49 +1,67 @@
+## 👋 Hola, soy Li Anthony Gómez
 
+Soy **Senior Full-Stack Software Engineer** con experiencia diseñando y desarrollando **sistemas escalables, seguros y orientados a negocio**, tanto en entornos web como mobile.
 
-<!--
-**cyberscript-pro/cyberscript-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He trabajado en **plataformas de producción**, arquitecturas limpias y soluciones de alto impacto, participando desde la **definición técnica** hasta la **implementación y despliegue**.
 
-Here are some ideas to get you started:
+Me enfoco en escribir **código mantenible**, tomar **decisiones arquitectónicas sólidas** y construir productos que realmente resuelvan problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## ¡Hola, soy Li Anthony Gomez! 👋
+---
 
-Bienvenido/a a mi perfil de GitHub. Soy un apasionado desarrollador backend con experiencia en la creación de APIs robustas y escalables. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Actualmente estoy desarrollando habilidades en el frontend para convertirme en un Fullstack Developer, también tengo conocimientos en el desarrollo de software especialmente Android con Java y Kotlin.
+## 🧠 Especialización Técnica
 
-## 🛠️ Tecnologías y Herramientas
+### Backend & Arquitectura
+- ASP.NET Core (Minimal APIs, Clean Architecture)
+- Autenticación y autorización (JWT, Refresh Tokens, OAuth2, Google Auth)
+- Diseño de APIs RESTful y GraphQL
+- Gestión de roles y permisos a nivel organizacional
 
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+### Frontend Web
+- React, Next.js, TypeScript
+- TailwindCSS, Framer Motion
+- Arquitectura frontend escalable
+- SEO, rendimiento y experiencia de usuario
+- Integración segura con APIs
 
-- **Lenguajes**: Python, JavaScript, TypeScript, Java, Kotlin, C#, Dart
-- **Frameworks**: NestJS, NextJS, ASP.NET Core
-- **Bases de datos**: PostgreSQL, MySQL
-- **Herramientas**: Git, Docker
-- **Otros**: RESTful APIs, GraphQL
+### Mobile
+- Android nativo (Kotlin / Java)
+- Flutter
+- React Native (Expo)
+- Arquitectura limpia y manejo de estado
 
-## 🌱 Actualmente estoy aprendiendo 
+### DevOps & Infraestructura
+- Docker
+- CI/CD
 
-- Framework: Djang Rest Framework, React Native con Expo, Flutter
-- Machine Learning con Python y Scikit-learn.
-- DevOps: CI/CD, Kubernetes y Terraform.
+### Bases de Datos
+- PostgreSQL
+- MySQL
+- Diseño de modelos y optimización de consultas
 
-### ⚙️ &nbsp;Estadísticas de GitHub
+---
 
-  <p align="center">
-    <a href="https://github.com/cyberscript-pro">
-      <img height="180em" width = "45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyberscript-pro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" width = "50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberscript-pro&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-  </p>
+## 🧩 En qué suelo trabajar
 
-¡Gracias por visitar mi perfil! Si te gusta lo que ves, no dudes en dejar una ⭐ en mis repositorios o seguirme para estar al tanto de mis nuevos proyectos.
+- Sistemas con múltiples roles y niveles de acceso
+- APIs seguras y escalables
+- Aplicaciones con alta mantenibilidad
+- Migraciones de monolitos a arquitecturas modernas
 
+---
 
+## ⚙️ GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/cyberscript-pro">
+    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyberscript-pro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberscript-pro&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+---
+
+## 📫 Contacto
+
+Si te interesa colaborar, discutir arquitectura o construir algo serio, puedes contactarme directamente por GitHub.
+
+⭐ Si alguno de mis repositorios te resulta útil, no dudes en dejar una estrella.
