@@ -52,9 +52,9 @@ Me enfoco en escribir **código mantenible**, tomar **decisiones arquitectónica
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/cyberscript-pro">
-    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyberscript-pro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberscript-pro&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/lianthonygg">
+    <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lianthonygg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lianthonygg&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
