@@ -1,55 +1,65 @@
-## 👋 Hola, soy Li Anthony Gómez
+<h1 align="center">👋 Hola, soy Li Anthony Gómez</h1>
+<h3 align="center">Semi Senior Frontend Developer</h3>
 
-Soy **Senior Full-Stack Software Engineer** con experiencia diseñando y desarrollando **sistemas escalables, seguros y orientados a negocio**, tanto en entornos web como mobile.
+<p align="center">
+  Frontend especializado en <b>React / Next.js</b>, con experiencia sólida en backend y conocimientos prácticos de DevOps.
+</p>
 
-He trabajado en **plataformas de producción**, arquitecturas limpias y soluciones de alto impacto, participando desde la **definición técnica** hasta la **implementación y despliegue**.
-
-Me enfoco en escribir **código mantenible**, tomar **decisiones arquitectónicas sólidas** y construir productos que realmente resuelvan problemas.
+<p align="center">
+  Me enfoco en construir <b>interfaces modernas, rápidas y mantenibles</b>, con especial atención a la calidad del código, el rendimiento y la experiencia de usuario.
+</p>
 
 ---
 
-## 🧠 Especialización Técnica
+## 🚀 Sobre mí
 
-### Backend & Arquitectura
-- ASP.NET Core (Minimal APIs, Clean Architecture)
-- Autenticación y autorización (JWT, Refresh Tokens, OAuth2, Google Auth)
-- Diseño de APIs RESTful y GraphQL
-- Gestión de roles y permisos a nivel organizacional
+- 💻 Especializado en **Frontend Web**
+- ⚛️ Trabajo principalmente con **React, Next.js y TypeScript**
+- 🧪 Enfoque creciente en **testing de frontend** (Vitest, Testing Library)
+- 🔧 Experiencia real integrando **APIs y backend**
+- 🐳 Conocimientos prácticos de **Docker y CI/CD**
+- 🎯 Foco en **UX, rendimiento y código limpio**
 
-### Frontend Web
+---
+
+## 🧠 Stack Tecnológico
+
+### 🎨 Frontend (Especialización)
 - React, Next.js, TypeScript
 - TailwindCSS, Framer Motion
 - Arquitectura frontend escalable
-- SEO, rendimiento y experiencia de usuario
-- Integración segura con APIs
+- SEO y optimización de rendimiento
+- Manejo de estado y buenas prácticas UI
+- **Testing con Vitest y Testing Library**
 
-### Mobile
-- Android nativo (Kotlin / Java)
-- Flutter
-- React Native (Expo)
-- Arquitectura limpia y manejo de estado
+### ⚙️ Backend
+- ASP.NET Core (Minimal APIs, Clean Architecture)
+- Autenticación y autorización (JWT, Refresh Tokens, OAuth2)
+- Diseño de APIs RESTful
+- Gestión de roles y permisos
 
-### DevOps & Infraestructura
+### 🚀 DevOps (práctico)
 - Docker
-- CI/CD
+- CI/CD básico
+- Build y despliegue de aplicaciones web
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 - PostgreSQL
 - MySQL
-- Diseño de modelos y optimización de consultas
 
 ---
 
-## 🧩 En qué suelo trabajar
+## 🧩 Qué tipo de proyectos desarrollo
 
-- Sistemas con múltiples roles y niveles de acceso
-- APIs seguras y escalables
-- Aplicaciones con alta mantenibilidad
-- Migraciones de monolitos a arquitecturas modernas
+- Aplicaciones web modernas centradas en el usuario
+- Dashboards y paneles administrativos
+- Sistemas con múltiples roles y permisos
+- Frontends bien conectados a APIs seguras
+- Proyectos con foco en mantenibilidad y testabilidad
 
 ---
 
-## ⚙️ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/lianthonygg">
@@ -62,6 +72,6 @@ Me enfoco en escribir **código mantenible**, tomar **decisiones arquitectónica
 
 ## 📫 Contacto
 
-Si te interesa colaborar, discutir arquitectura o construir algo serio, puedes contactarme directamente por GitHub.
+Si te interesa colaborar, hablar de frontend o construir un producto serio, puedes escribirme directamente por GitHub.
 
 ⭐ Si alguno de mis repositorios te resulta útil, no dudes en dejar una estrella.
