@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hola, soy Li Anthony Gómez</h1>
-<h3 align="center">Semi Senior Frontend Developer</h3>
+<h3 align="center">Semi Senior Software Developer</h3>
 
 <p align="center">
-  Frontend especializado en <b>React / Next.js</b>, con experiencia sólida en backend y conocimientos prácticos de DevOps.
+  Android Developer en Kotlin y Frontend especializado en <b>React / Next.js</b>, con experiencia sólida en backend y conocimientos prácticos de DevOps.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Especializado en **Frontend Web**
+- 💻 Especializado en el **Desarrollo de Aplicaciones Móviles y Frontend Web**
 - ⚛️ Trabajo principalmente con **React, Next.js y TypeScript**
 - 🧪 Enfoque creciente en **testing de frontend** (Vitest, Testing Library)
 - 🔧 Experiencia real integrando **APIs y backend**
@@ -23,6 +23,12 @@
 ---
 
 ## 🧠 Stack Tecnológico
+
+### Semi Senior Android Developer
+- Kotlin + XML
+- Flutter
+- Room
+- MVVM
 
 ### 🎨 Frontend (Especialización)
 - React, Next.js, TypeScript
